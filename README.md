@@ -2,7 +2,7 @@
 - 👀 I’m interested in all the frontend related technologies.
 - 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on any UI projects!
-- 📫 Reach me via my email: helloo@sahanbandara.com.
+- 📫 Reach me via my email: hello@sahanbandara.com.
 
 <!---
 Vibhashana/Vibhashana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
